@@ -21,6 +21,10 @@ Individual Research and Development repo
 		
 	SNAKE (C++):
 		- basic snake game, one class project with basic logical programming
+		- contains a flickering bug but works perfectly fine
+		
+	TETRIS (C++):
+		- basic tetris, one class project with simple algorithms and logic
 		
 	CHECKERS (WORK IN PROGRESS):
 		- checkers player agent (MDP intelligent programming)
