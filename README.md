@@ -2,7 +2,7 @@
 Individual Research and Development repo
 
 ****FOR ALL PROJECTS****: 
-	- to run convert all to java projects (this repo is a general project)
+	- to run convert all to java (or their respective language) projects (this repo is a general project)
 	
 	CHANGING TECH:
 		- input and outputs are provided in examples folder
@@ -19,5 +19,9 @@ Individual Research and Development repo
 		- run project from Run.class
 		- description on starting screen
 		
+	SNAKE (C++):
+		- basic snake game, one class project with basic logical programming
+		
 	CHECKERS (WORK IN PROGRESS):
 		- checkers player agent (MDP intelligent programming)
+		
