@@ -1,5 +1,5 @@
 # Personal-Projects
-Individual Research and Development repo
+Individual Research and Development repo, if any third party contributions are made PLEASE COMMIT TO SEPARATE BRANCH***
 
 ****FOR ALL PROJECTS****: 
 	- to run convert all to java (or their respective language) projects (this repo is a general project)
